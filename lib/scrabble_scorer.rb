@@ -7,7 +7,7 @@ class ScrabbleScorer
   end
 
   def self.call
-    File.path()
+    File.open("./word_list.txt")
   end
 
 end
