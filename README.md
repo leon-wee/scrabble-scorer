@@ -1,4 +1,4 @@
-## Round 1: Scrabble Scorer
+## Scrabble Scorer
 
 This directory has a file containing a *HUGE* list of words. Your task is to write a method that can find the word within that list that would get the highest score in a game of scrabble. We will ignore multipliers.
 
